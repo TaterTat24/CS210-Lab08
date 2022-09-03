@@ -1,8 +1,8 @@
 /* lab08.c
  * =============================================================
- *    Name:
- * Section:
- * Purpose:
+ *    Name: Benjamin Tat
+ * Section: T6
+ * Purpose: Unit Testing
  * =============================================================
  */
 
@@ -43,10 +43,10 @@ void calculateColdAdvisory() {
 int main(void) {
 
     // Uncomment me to run all tests
-    //runAllTests();
+    runAllTests();
 
     // Uncomment me to run the main program
-    calculateColdAdvisory();
+    //calculateColdAdvisory();
 
     return 0;
 }
